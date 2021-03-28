@@ -1,0 +1,13 @@
+# torchbox
+A small library containing tools (toolbox) that will help in the development of neural networks.
+
+
+# Installation 
+- Clone this repository
+- Add folder to the PYTHONPATH
+
+## Add a folder to the PYTHONPATH
+- open a terminal and run: `nano ~/.bash_profile`
+- add the following line to the end: `export PYTHONPATH="/Users/my_user/torchbox_lib"
+- Done!
+- To check the results rerun the terminal and run: `echo $PYTHONPATH` 
