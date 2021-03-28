@@ -3,7 +3,9 @@ A small library containing tools (toolbox) that will help in the development of 
 
 ## Installation 
 - Clone this repository
-- Add folder to the PYTHONPATH
+- Add torchbox_lib to the PYTHONPATH (*torchbox_lib, not torchbox)
+
+*Installation with git will be available in the future!*
 
 ### Add a folder to the PYTHONPATH
 - open a terminal and run: `nano ~/.bash_profile`
